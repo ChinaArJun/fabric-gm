@@ -1,0 +1,24 @@
+# github.com/golang/protobuf v1.3.2
+github.com/golang/protobuf/proto
+# github.com/tjfoc/gmsm v1.2.0
+github.com/tjfoc/gmsm/sm2
+github.com/tjfoc/gmsm/sm3
+# golang.org/x/crypto v0.0.0-20191219195013-becbf705a915
+golang.org/x/crypto/chacha20
+golang.org/x/crypto/chacha20poly1305
+golang.org/x/crypto/curve25519
+golang.org/x/crypto/internal/subtle
+golang.org/x/crypto/poly1305
+golang.org/x/crypto/ripemd160
+golang.org/x/crypto/sha3
+# golang.org/x/net v0.0.0-20191209160850-c0dbc17a3553
+golang.org/x/net/context
+# golang.org/x/sys v0.0.0-20190412213103-97732733099d
+golang.org/x/sys/cpu
+golang.org/x/sys/unix
+# google.golang.org/grpc v1.26.0
+google.golang.org/grpc/connectivity
+google.golang.org/grpc/credentials
+google.golang.org/grpc/credentials/internal
+google.golang.org/grpc/grpclog
+google.golang.org/grpc/internal

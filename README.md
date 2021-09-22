@@ -9,5 +9,5 @@
 
 
 #### 参考
-#### [感谢](https://github.com/VoneChain-CS)
-#### [编译参考](https://github.com/qiangjiyi/fabric-gm/issues/1)
+* [感谢](https://github.com/VoneChain-CS)
+* [编译参考](https://github.com/qiangjiyi/fabric-gm/issues/1)
